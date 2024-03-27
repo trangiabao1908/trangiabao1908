@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trần Gia Bảo</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
-<img alt="Coding" width="400" src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=740">
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img alt="Coding" width="400" src="https://img.freepik.com/premium-vector/simple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg?w=740">
+</div>
 
 - 🌱 I’m currently learning **React, React Native, TypeScript, NodeJS, GRAPHQL, MUI Material**
 
