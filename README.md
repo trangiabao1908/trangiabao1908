@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trần Gia Bảo</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
-<img alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img alt="Coding" width="400" src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+
 - 🌱 I’m currently learning **React, React Native, TypeScript, NodeJS, GRAPHQL, MUI Material**
 
 - 💬 Ask me about **React, React Native, MERN**
